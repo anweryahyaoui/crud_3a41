@@ -16,7 +16,7 @@ class StudentType extends AbstractType
             ->add('email')
             ->add('age')
             ->add('classroom')
-            ->add('no')
+
         ;
     }
 
